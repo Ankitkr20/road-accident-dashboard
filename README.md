@@ -6,11 +6,11 @@ An interactive Tableau dashboard that visualizes road accident data to uncover t
 
 ## 📊 Features
 
-- Accident trends over months/years
-- Heatmap of accident locations
+- Accident trends over time
 - Severity and casualty breakdown
-- Contributing factors (weather, time, vehicle type)
-- Interactive filters for deep exploration
+- Heatmap of accident-prone areas
+- Interactive filters for year, region, and vehicle type
+- Clear visuals for data-driven decision-making
 
 ---
 
@@ -24,33 +24,35 @@ An interactive Tableau dashboard that visualizes road accident data to uncover t
 
 ## 📁 Project Files
 
-- `Road Accident Dashboard.twbx`: Main Tableau project file
-- `dashboard.png`: Dashboard preview image (upload this manually)
+- `Road Accident Dashboard.twbx`: Tableau Packaged Workbook  
+  📥 [Download from Google Drive](https://drive.google.com/file/d/1eQKdTjxlHImuL6JdqJBZjwjpzTjQCzMv/view?usp=share_link)
 
 ---
 
 ## 🧑‍💻 How to Use
 
-1. Clone or download this repo.
-2. Open `Road Accident Dashboard.twbx` using **Tableau Desktop**.
-3. Interact with filters and visuals to explore insights.
+1. Download the `.twbx` file using the link above.
+2. Open it in **Tableau Desktop**.
+3. Explore filters, visualizations, and insights directly.
 
 ---
 
 ## 🖼 Dashboard Preview
 
-![Dashboard Screenshot](dashboard.png)
+> *(Add a screenshot named `dashboard.png` in your repo and uncomment below)*  
+<!-- ![Dashboard Screenshot](dashboard.png) -->
 
 ---
 
 ## 📌 Insights & Applications
 
-- Identify accident-prone zones and peak accident times.
-- Support city traffic safety initiatives.
-- Assist decision-makers in allocating resources and improving road conditions.
+- Identify accident-prone zones and time windows.
+- Help traffic departments and city planners allocate safety resources.
+- Improve public awareness and targeted action on road safety.
 
 ---
 
 ## 📬 Contact
 
-Feel free to connect for collaboration or questions via GitHub Issues or Pull Requests at 18krankit@gmail.com.
+For questions or collaborations, feel free to raise an issue or connect via GitHub.
+
