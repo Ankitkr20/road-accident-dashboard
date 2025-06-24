@@ -53,4 +53,4 @@ An interactive Tableau dashboard that visualizes road accident data to uncover t
 
 ## 📬 Contact
 
-Feel free to connect for collaboration or questions via GitHub Issues or Pull Requests.
+Feel free to connect for collaboration or questions via GitHub Issues or Pull Requests at 18krankit@gmail.com.
