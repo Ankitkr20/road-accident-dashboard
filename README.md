@@ -39,8 +39,7 @@ An interactive Tableau dashboard that visualizes road accident data to uncover t
 
 ## 🖼 Dashboard Preview
 
-> *(Add a screenshot named `dashboard.png` in your repo and uncomment below)*  
-<!-- ![Dashboard Screenshot](dashboard.png) -->
+![Dashboard Screenshot](dashboard.png)
 
 ---
 
